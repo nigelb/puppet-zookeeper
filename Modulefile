@@ -1,0 +1,5 @@
+name 'nigelb-zookeeper'
+version '0.0.1'
+summary 'Install and configure apache zookeeper.'
+project_page 'https://github.com/nigelb/puppet-zookeeper'
+license 'GPLv2'
